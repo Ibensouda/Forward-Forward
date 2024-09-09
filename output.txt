@@ -1,0 +1,3 @@
+Résultats Forward Forward : 
+précision : 0.9511. Temps d'éxecution : 1308
+Précision BP : 0.9772999882698059. Temps d'éxecution : 14
